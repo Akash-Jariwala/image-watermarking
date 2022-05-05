@@ -1,4 +1,4 @@
-Image Watermarking Application
+# Image Watermarking Application
 
 Step to run application:
 Step 1:	Create the copy of the project.
