@@ -1,3 +1,5 @@
+Image Watermarking Application
+
 Step to run application:
 Step 1:	Create the copy of the project.
 Step 2: Open command prompt and change your current path 
