@@ -1,5 +1,5 @@
 # Image Watermarking Application
-## _Tech. Stack Used:_ *Flask, OpenCV*
+## _Tech. Stack Used:_ Flask, OpenCV
 
 
 ### Step to run application:
